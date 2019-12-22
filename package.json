@@ -2,6 +2,7 @@
 	"name": "trail-theme",
 	"displayName": "Trail Dark",
 	"publisher": "Mos6",
+	"icon": "./Images/icon.png",
 	"repository": {
 		"url": "https://github.com/Mos-6/vscTrailTheme"
 	},

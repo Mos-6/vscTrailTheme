@@ -32,7 +32,7 @@ Trail Theme is a color theme for Visul Studio Code.
 
 **File Tree:**
 
-![HTML Example](Images/statusBar.png)
+![HTML Example](Images/tree.png)
 
 ### For more information
 * [Github repository](https://github.com/Mos-6/vscTrailTheme)

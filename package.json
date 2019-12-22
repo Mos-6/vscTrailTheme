@@ -1,21 +1,30 @@
 {
-    "name": "trail-theme",
-    "displayName": "Trail Theme",
-    "description": "Trail theme for Visual Studio Code.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.31.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Trail Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Trail Theme-color-theme.json"
-            }
-        ]
-    }
+	"name": "trail-theme",
+	"displayName": "Trail Theme",
+	"publisher": "Mos6",
+	"repository": {
+		"url": "https://github.com/Mos-6/vscTrailTheme"
+	},
+	"description": "Trail theme for Visual Studio Code.",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.31.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Trail Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Trail Theme-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "6b987106-ad32-4888-bdbb-0eda363e9503",
+		"publisherDisplayName": "Mos6",
+		"publisherId": "6a8d27cf-2ded-415c-b5f4-96c682ed4202"
+	}
 }

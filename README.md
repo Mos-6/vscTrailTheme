@@ -2,14 +2,19 @@
 
 Trail Theme is a color theme for Visul Studio Code.
 
-###### Specs:
+#### Features:
 * Dark Theme.
 * Readability first.
 * Clean editor area.
 * Desgined especially for Salesforce file extensions.
+* Based on Monokai like themes but features better contrast between colors.
 
-**Theme example:**
-![HTML](Images/html.png)
+**Theme examples:**
+##### HTML:
+![HTML Example](Images/html.png)
+
+##### Apex:
+![HTML Example](Images/APEX.png)
 
 ### For more information
 * [Github repository](https://github.com/Mos-6/vscTrailTheme)

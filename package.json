@@ -6,7 +6,7 @@
 		"url": "https://github.com/Mos-6/vscTrailTheme"
 	},
 	"description": "Trail theme for Visual Studio Code.",
-	"version": "0.0.3",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.31.0"
 	},

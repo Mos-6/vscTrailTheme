@@ -9,11 +9,12 @@ Trail Theme is a color theme for Visul Studio Code.
 * Desgined especially for Salesforce file extensions.
 * Based on Monokai like themes but features better contrast between colors.
 
-**Best with these file extensions:**
+**Best when used with these file extensions:**
 
 * .cls
 * .page
 * .html
+* .css
 * .js
 
 #### Examples:

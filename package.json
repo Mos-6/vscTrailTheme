@@ -1,0 +1,21 @@
+{
+    "name": "trail-theme",
+    "displayName": "Trail Theme",
+    "description": "Trail theme for Visual Studio Code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Trail Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Trail Theme-color-theme.json"
+            }
+        ]
+    }
+}

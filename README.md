@@ -18,9 +18,11 @@ Trail Theme is a color theme for Visul Studio Code.
 
 #### Examples:
 **Apex:**
+
 ![HTML Example](Images/APEX.png)
 
 **HTML:**
+
 ![HTML Example](Images/html.png)
 
 ### For more information

@@ -53,7 +53,7 @@
 		"editorWidget.background": "#2a2c2d",
 		"editorWidget.border": "#373b41",
 		"errorForeground": "#ff4b82",
-		"extensionButton.prominentBackground": "#45a9f9",
+		"extensionButton.prominentBackground": "#ff4b82",
 		"extensionButton.prominentForeground": "#ffffff",
 		"extensionButton.prominentHoverBackground": "#676b79",
 		"focusBorder": "#ac0b4e",
